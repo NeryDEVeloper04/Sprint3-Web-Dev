@@ -1,0 +1,5 @@
+Coloque aqui as imagens dos modos (mesmo nome usado no protótipo original):
+auto.png, estudo.png, pet.png, retrato.png, paisagem.png, manual.png
+
+Enquanto os arquivos não existirem, a interface mostra um placeholder
+(o mesmo comportamento de fallback que já existia no protótipo em HTML puro).
