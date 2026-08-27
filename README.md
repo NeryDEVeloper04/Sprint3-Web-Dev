@@ -69,11 +69,11 @@ vezes como no protótipo original em HTML.
 
 ## Onde e como a IA foi utilizada
 
-Pessoal, gostaria de compartilhar uma atualização importante sobre a nossa migração para o React.Para acelerar o processo e garantir a qualidade das entregas, utilizei inteligência artificial como assistente de desenvolvimento em várias frentes estratégicas:Migração para React: Refatoração e conversão de telas antigas em componentes reutilizáveis e modernos.Documentação Completa: Escrita do arquivo README do projeto, detalhando a nova arquitetura e estrutura de pastas.Instruções de Configuração: Criação de guias passo a passo claros para inicializar o projeto com npm. Resolução de Bugs: Identificação precisa e correção de erros comuns de ciclo de vida, renderização e estado.Brainstorming: Geração de ideias para a estrutura de componentes, gerenciamento de estado global e boas práticas.
+Pessoal, gostaria de compartilhar uma atualização importante sobre a nossa migração para o React.Para acelerar o processo e garantir a qualidade das entregas, utilizei inteligência artificial como assistente de desenvolvimento em várias frentes estratégicas: Migração para React: Refatoração e conversão de telas antigas em componentes reutilizáveis e modernos. Documentação Completa: Escrita do arquivo README do projeto, detalhando a nova arquitetura e estrutura de pastas.Instruções de Configuração: Criação de guias passo a passo claros para inicializar o projeto com npm. Resolução de Bugs: Identificação precisa e correção de erros comuns de ciclo de vida, renderização e estado.Brainstorming: Geração de ideias para a estrutura de componentes, gerenciamento de estado global e boas práticas.
 
 ## Link do Deploy na Vercel
 
-`[ADICIONAR AQUI após o deploy — ainda não publicado]`
+sprint3-web-dev-one.vercel.app
 
 ## Repositório Git
 
